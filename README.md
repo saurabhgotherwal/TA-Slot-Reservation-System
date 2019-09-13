@@ -1,4 +1,4 @@
-# TA-slot-Reservation-System-
+# TA-Slot-Reservation-System
 
 ### Objective:
 
